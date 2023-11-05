@@ -2,6 +2,7 @@
 
 👋 Hi there! Welcome to my GitHub profile! I'm a passionate Angular front-end developer with a love for creating beautiful and responsive web applications. With a strong background in web development and a focus on Angular, I'm dedicated to building user-friendly and efficient digital experiences.
 
+
 ## 🚀 About Me
 - 🎓 Completed B.Tech in Information Technology
 - 💼 Worked as Project Engineer at Soliton Technologies, Coimabtore.
@@ -37,6 +38,7 @@ I believe in continuous learning and staying up-to-date with the latest trends i
 ## 🏆 Coding Profiles
 
 - **HackerRank:** [@19BIT002_Priya](https://www.hackerrank.com/profile/19BIT002_Priya) 
+
 
 
 📫 You can contact me through email at psk6876@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/priyanka-s-b779661b0). Let's build the future of the web together!
