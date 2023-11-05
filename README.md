@@ -1,4 +1,4 @@
-👋 Hi there! Welcome to my GitHub profile! I'm [Your Name], a passionate Angular front-end developer with a love for creating beautiful and responsive web applications. With a strong background in web development and a focus on Angular, I'm dedicated to building user-friendly and efficient digital experiences.
+👋 Hi there! Welcome to my GitHub profile! I'm Priyanka, a passionate Angular front-end developer with a love for creating beautiful and responsive web applications. With a strong background in web development and a focus on Angular, I'm dedicated to building user-friendly and efficient digital experiences.
 
 🚀 What You'll Find Here:
 
