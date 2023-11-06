@@ -11,12 +11,15 @@
 ## 🚀 What You'll Find Here:
 
 NodeJS Projects: Explore my repositories to find a collection of NodeJS applications and components that showcase my skills and creativity in crafting dynamic web interfaces.
+
 Code Quality: I take pride in writing clean, well-structured, and maintainable code. You'll see my commitment to best practices and adherence to coding standards.
 
 ## 🛠️ My Toolkit:
 
 Angular: I have a deep understanding of Angular and its ecosystem, from creating robust components to optimizing performance.
+
 HTML, CSS, and JavaScript: These are the building blocks of the web, and I use them to create responsive and visually appealing interfaces.
+
 NodeJS: I'm experienced in integrating with backend services to build seamless and interactive web applications.
 
 ## 🔧 Technologies & Tools
