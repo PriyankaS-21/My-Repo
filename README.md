@@ -21,14 +21,16 @@ NodeJS: I'm experienced in integrating with backend services to build seamless a
 
 ## 🔧 Technologies & Tools
 
-![AngularJS](https://img.shields.io/badge/AngularjS-F05032?style=flat&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F05032?style=flat&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-F05032?style=flat&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-F05032?style=flat&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularjS-E5401C?style=flat&logo=AngularjS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-42F1DF?style=flat&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-555CE8?style=flat&logo=TypeScript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-E855C7?style=flat&logo=NodeJS&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-8BDC8D?style=flat&logo=css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CADC8B?style=flat&logo=scss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1572B6?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-E855C7?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8B6883?style=flat&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
@@ -41,7 +43,7 @@ I believe in continuous learning and staying up-to-date with the latest trends i
 
 
 
-📫 You can contact me through email at psk6876@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/priyanka-s-b779661b0). Let's build the future of the web together!
+📫 You can contact me through email at psk6876@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/priyanka-s-b779661b0).
 
 
 Thanks for visiting, and I look forward to sharing my passion for Angular development with you!
