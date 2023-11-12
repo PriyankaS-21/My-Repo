@@ -6,6 +6,8 @@
 ## 🚀 About Me
 - 🎓 Completed B.Tech in Information Technology
 - 💼 Worked as Project Engineer at Soliton Technologies, Coimabtore.
+
+Feel free to check out my portfolio at this link: https://priyanka-21.web.app/
   
 
 ## 🚀 What You'll Find Here:
